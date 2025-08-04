@@ -1,7 +1,7 @@
 🍽️ Restaurant Orders Analysis with MySQL
 This project explores customer behavior and menu performance using a relational database that includes order details and menu items. The objective is to provide insights into how well the new menu is being received and identify top-selling items.
 
-#📁 Files Included
+📁 Files Included
 
 | File | Description |
 |------|-------------|
